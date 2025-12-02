@@ -6,7 +6,7 @@ We introduces a novel task, **Vision-and-Language Driving (VLD)**, aiming to ena
 
 
 
-## Data Collection and process
+## Data Collection
 
 
 We use CARLA 0.9.15 to collect data with the Leaderboard 2.0 framework in Town 12. We design driving routes by configuring starting points, waypoints, and end points. 
@@ -17,13 +17,7 @@ The vehicle is equipped with multiple sensors: four RGB cameras, four semantic c
 <img src="https://github.com/lab-sun/VLD/blob/main/pics/sensors.png" width="700px"/>
 </div>
 
-
-
-
-
-
-
-## VLD Dataset Detail and Download
+## Downloads
 
 The VLD dataset is constructed based on the CARLA simulator, which contains RGB images, Graph-of-Thought (GoT) format VQAs, Chain-of-Thought (CoT) format VQAs, and human language instrcutions for the corresponding driving routes. 
 
