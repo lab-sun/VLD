@@ -32,7 +32,7 @@ https://github.com/lab-sun/VLD/assets/112605189/521228503-c61c8795-1904-4c27-a0f
 
 For more details, please refer to the paper. 
 
-## Sample Results
+### Prediction Results
 
 https://github.com/lab-sun/VLD/assets/112605189/521228946-cd013c85-33a1-40c5-80a8-436d84045b09
 
