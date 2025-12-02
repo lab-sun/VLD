@@ -1,6 +1,6 @@
 # Vision-and-Language Driving: A Benchmark for Long-horizon Human-instructed Autonomous Driving
 
-We introduces a novel task, **Vision-and-Language Driving (VLD)**, aiming to enable vehicles to follow long-horizon human natural-language instructions to autonomously navigate in traffic environments. We also build a dataset (**VLD dataset**) for the VLD task and proposed a baseline approach based on fine-tuning Qwen2-VL.
+We introduce a novel task, **Vision-and-Language Driving (VLD)**, aiming to enable vehicles to follow long-horizon human natural-language instructions to autonomously navigate in traffic environments.
 
 ## Data Collection
 
