@@ -26,18 +26,17 @@ A mini sample data with a single route: [download link](https://144.214.80.11:50
 
 ## Demonstrations
 
-The following video is an RGB recording of a vehicle's driving route from the dataset, with the instruction being ``Go straight along the current road, turn left at the T-junction after passing a blue-purple kiosk, then go straight, turn right at the T-junction after passing a white plastic table, then go straight, turn left at the T-junction at the end of the road, then go straight, turn left at the crossroads after passing a Coca-Cola vending machine, then go straight, turn right at the T-junction at the end of the road, then go straight and stop near the mailbox on the right side of the road. ``
+The following video is an RGB recording of a vehicle's driving route selected from the dataset, with the instruction:
+``Go straight along the current road, turn left at the T-junction after passing a blue-purple kiosk, then go straight, turn right at the T-junction after passing a white plastic table, then go straight, turn left at the T-junction at the end of the road, then go straight, turn left at the crossroads after passing a Coca-Cola vending machine, then go straight, turn right at the T-junction at the end of the road, then go straight and stop near the mailbox on the right side of the road. ``
 
 https://github.com/lab-sun/VLD/assets/112605189/521228503-c61c8795-1904-4c27-a0fc-a551b8827784
 
 For more details, please refer to the paper. 
 
-### Prediction Results
+The prediction results:
 
 https://github.com/lab-sun/VLD/assets/112605189/521228946-cd013c85-33a1-40c5-80a8-436d84045b09
 
 # Acknowledgement
 
 Thanks for [DriveLM](https://github.com/OpenDriveLab/DriveLM).
-
-
