@@ -4,7 +4,7 @@ We introduce a novel task, **Vision-and-Language Driving (VLD)**, aiming to enab
 
 ## Data Collection
 
-We use CARLA 0.9.15 to collect data with the Leaderboard 2.0 framework in Town 12. We design driving routes by configuring starting points, waypoints, and end points. 
+This paper builds a dataset for the VLD task. We use CARLA 0.9.15 to collect data with the Leaderboard 2.0 framework in Town 12. We design driving routes by configuring starting points, waypoints, and end points.
 
 The vehicle is equipped with multiple sensors: four RGB cameras, four semantic cameras, four depth cameras, and one LiDAR. Our sensor placement is developed from the [DriveLM](https://github.com/OpenDriveLab/DriveLM) placement scheme, which is shown in the figure below. The specifications of the sensors is displayed in the table below.
 
@@ -14,7 +14,7 @@ The vehicle is equipped with multiple sensors: four RGB cameras, four semantic c
 
 ## Downloads
 
-``(Please use the password provided in the manuscript to access the download pages and unzip the zip files.)``
+``Please use the password provided in the manuscript to access the download pages and unzip the zip files.``
 
 The full VLD dataset: [download link](https://144.214.80.11:5001/sharing/7acEIXQEE)
 
