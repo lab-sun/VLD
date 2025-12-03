@@ -16,13 +16,13 @@ The vehicle is equipped with multiple sensors: four RGB cameras, four semantic c
 
 ``Please use the password provided in the manuscript to access the download pages and unzip the zip files.``
 
-The full VLD dataset: [download link](https://144.214.80.11:5001/sharing/7acEIXQEE)
+The full VLD dataset: [download link](https://nas.labsun.org/downloads/under_review/vld_dataset.php)
 
-The preprocessed raw data: [download link](https://144.214.80.11:5001/sharing/yU1G0LiAF)
+The preprocessed raw data: [download link](https://nas.labsun.org/downloads/under_review/vld_dataset_raw.php)
 
 Note: The preprocessed raw data data contains additional information collected from the CARLA simulator. You may develop your own datasets based on the raw materials for your own tasks. 
 
-A mini sample data with a single route: [download link](https://144.214.80.11:5001/sharing/HvcjGQb1U)
+A mini sample data with a single route: [download link](https://nas.labsun.org/downloads/under_review/mini_sample_route_1263.php)
 
 ## Demonstrations
 
