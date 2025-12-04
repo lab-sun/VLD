@@ -35,7 +35,7 @@ For more details, please refer to the paper.
 
 The prediction results:
 
-https://github.com/lab-sun/VLD/assets/112605189/522246477-ef955d60-d734-4843-b511-bf27a70a0735
+https://github.com/lab-sun/VLD/assets/112605189/521228946-cd013c85-33a1-40c5-80a8-436d84045b09
 
 ## Acknowledgement
 
