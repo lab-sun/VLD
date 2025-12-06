@@ -2,7 +2,7 @@
 
 We introduce a novel task, **Vision-and-Language Driving (VLD)**, aiming to enable vehicles to follow long-horizon human natural-language instructions to autonomously navigate in traffic environments.
 
-The paper of this dataset in under review.
+**The paper of this dataset is under review.**
 
 ## Data Collection
 
