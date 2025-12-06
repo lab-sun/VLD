@@ -44,5 +44,7 @@ https://github.com/lab-sun/VLD/assets/112605189/522255750-0d9a4694-9048-4864-aab
 [DriveLM](https://github.com/OpenDriveLab/DriveLM)
 
 ## Contact
+
 [CityU Autonomous Systems Lab](https://labsun.org/)
+
 [Prof. Yuxiang Sun](mailto:yx.sun@cityu.edu.hk)
