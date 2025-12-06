@@ -2,6 +2,8 @@
 
 We introduce a novel task, **Vision-and-Language Driving (VLD)**, aiming to enable vehicles to follow long-horizon human natural-language instructions to autonomously navigate in traffic environments.
 
+The paper of this dataset in under review.
+
 ## Data Collection
 
 This paper builds a dataset for the VLD task. We use CARLA 0.9.15 to collect data with the Leaderboard 2.0 framework in Town 12. We design driving routes by configuring starting points, waypoints, and end points.
@@ -20,7 +22,7 @@ The full VLD dataset: [download link](https://nas.labsun.org/downloads/under_rev
 
 The preprocessed raw data: [download link](https://nas.labsun.org/downloads/under_review/vld_dataset_raw.php)
 
-Note: The preprocessed raw data data contains additional information collected from the CARLA simulator. You may develop your own datasets based on the raw materials for your own tasks. 
+Note: The preprocessed raw data contains additional information collected from the CARLA simulator. You may develop your own datasets based on the raw materials for your own tasks. 
 
 A mini sample data with a single route: [download link](https://nas.labsun.org/downloads/under_review/mini_sample_route_1263.php)
 
@@ -35,11 +37,12 @@ For more details, please refer to the paper.
 
 The prediction results:
 
-
 https://github.com/lab-sun/VLD/assets/112605189/522255750-0d9a4694-9048-4864-aab7-ee8bfa6949e1
-
-
 
 ## Acknowledgement
 
 [DriveLM](https://github.com/OpenDriveLab/DriveLM)
+
+## Contact
+[CityU Autonomous Systems Lab](https://labsun.org/)
+[Prof. Yuxiang Sun](mailto:yx.sun@cityu.edu.hk)
